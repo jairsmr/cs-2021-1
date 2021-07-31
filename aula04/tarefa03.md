@@ -26,7 +26,7 @@ R= git commit -m "comentario" e git push
 4. Qual o comando deve ser executado para identificar o que foi alterado desde o último “commit”?
 R= git status
 5. Em um dado repositório, arquivos simplesmente copiados para lá, ou seja, _untracked_, podem ser exibidos/identificados com que comando?
-R= git status -s
+R= git status -s 
 6. Qual o comando para efetuar um _commit_? 
 R= git commit -u "comentário"
 7. Qual o comando que devemos empregar para descartar mudanças ocorridas no arquivo teste.txt, por exemplo?
