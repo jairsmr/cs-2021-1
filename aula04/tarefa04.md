@@ -7,7 +7,7 @@
 <pre>Permite criar, listar, renomear e excluir ramificações</pre>
 
 3. Como criar um branch a partir de um commit específico?
-<pre>git branch <nome> <commit></pre>
+<pre>git branch (nome) (commit)</pre>
 
 4. Em um repositório, qual o efeito do comando **<code>git checkout -b bugfix/234</code>**?
 <pre></pre>
