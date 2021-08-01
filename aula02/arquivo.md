@@ -27,8 +27,7 @@
 ###9. Tem conta no _github_?
 
   9.1.  Se sim:
-      * Informe o nome do seu usuário no _github_;
-	<pre>jairsmr
+      * Informe o nome do seu usuário no _github_; jairsmr
 
       * Crie um repositório com o nome **cs-2021-1** e compartilhe com o professor. Meu usuário no _github_ é **gilmarioArantes**;
       * Crie duas novas _branchs_ no seu repositório pessoal. Uma para você fazer _commit_ das tarefas das disciplina e outra com o nome **professor**. Esta _branch_ receberá o conteúdo da sua _branch_ somente através de operações de _pull request_.
