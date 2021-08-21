@@ -1,4 +1,4 @@
-##### Exercício 01 da tarefa009.
+## Exercício 01 da tarefa009.
 
 1. Implementar um programa que:
   * leia a idade de uma pessoa expressa em anos, meses e dias e mostre-a expressa em dias.
